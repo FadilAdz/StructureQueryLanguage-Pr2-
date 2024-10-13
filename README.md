@@ -11,7 +11,7 @@
 
 ## Data Model Mapping
 
-``` mysql
+``` sql
 Mahasiswa (nim, nama, jenis_kelamin, tgl_lahir, jalan, kota, kodepos, no_hp, kd_ds)
 Dosen (kd_ds, nama)
 Matakuliah (kd_mk, nama, sks)
